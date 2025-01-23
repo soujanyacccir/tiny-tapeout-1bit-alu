@@ -1,4 +1,4 @@
-<!---
+1 bit ALU to perform few logic and airthmatic operations<!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
