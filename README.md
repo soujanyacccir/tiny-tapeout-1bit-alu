@@ -1,5 +1,4 @@
-1 bit ALU to perform few logic and airthmatic operations![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
-
+1 bit ALU to perform few logic and airthmatic operations![](../../workflows/gds/badge.svg) ![]
 # Tiny Tapeout Wokwi Project Template
 
 - [Read the documentation for project](docs/info.md)
